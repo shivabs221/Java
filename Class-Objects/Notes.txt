@@ -1,0 +1,5 @@
+ Class -> Class is a user defined data type,
+          -> It contains the data and methods into single unit called a Class.
+          -> Class using we can create multiple objects for same class or different class.
+          -> Class contains a group of different variables and a group of methods.
+          -> Class does not occupy memory.
